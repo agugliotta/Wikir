@@ -1,1 +1,0 @@
-wikir hacking | xargs python2.7 -c "from termcolor import *;import sys;   cprint(sys.argv[1],'red')"
